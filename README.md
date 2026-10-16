@@ -13,7 +13,7 @@ This repository tracks my contributions to open-source projects, including bug f
 
 ## Repository Structure
 
-Each contribution is documented separately in its own folder, with details about the problem, solution, testing, and  pull request.
+- Each contribution is documented separately in its own folder, with details about the problem, solution, testing, and  pull request.
 
 ## Goals
 
