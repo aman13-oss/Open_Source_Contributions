@@ -1,4 +1,4 @@
-# WooCommerce PR #699 — Skip Purchase Tracking for Failed and Cancelled Orders
+# woocommerce-google-analytics-integration PR #699 — Skip Purchase Tracking for Failed and Cancelled Orders
 
 ## 1. Project Overview
 
